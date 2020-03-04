@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "ED-Open", "ED-Open\Test.tsp", "09C6C757-3DC4-4777-B3FC-07A3BA7F2590"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Workspace\Unified Functional Testing\Solution_ED-Open\ED-Open\ED-Open\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		09C6C757-3DC4-4777-B3FC-07A3BA7F2590.Debug|Any CPU.Build.0 = Debug|Any CPU
+		09C6C757-3DC4-4777-B3FC-07A3BA7F2590.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		09C6C757-3DC4-4777-B3FC-07A3BA7F2590.Release|Any CPU.Build.0 = Release|Any CPU
+		09C6C757-3DC4-4777-B3FC-07A3BA7F2590.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
